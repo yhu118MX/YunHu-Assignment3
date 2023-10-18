@@ -1,0 +1,14 @@
+{
+  "name": "inm420-assignment3",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "lite-server --baseDir=\"publichy\""
+  },
+  "author": "YunHu",
+  "license": "private",
+  "private": true,
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
